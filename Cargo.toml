@@ -1,0 +1,9 @@
+[package]
+name = "somnia-risk-engine-ai"
+version = "1.0.0"
+edition = "2021"
+authors = ["Martin Luther <martinlutherupa1@gmail.com>"]
+description = "Portfolio margin and cross-collateral health monitor"
+license = "MIT"
+
+[dependencies]
